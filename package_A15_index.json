@@ -19,7 +19,7 @@
             },
             "url": "https://github.com/rattrap777/A15/blob/master/A15.zip",
             "archiveFileName": "A15.zip",
-            "checksum": "md5:7e94ddf4bf024e5e5978dc693e592527",
+            "checksum": "SHA-256:8eb0cb09e693a5b99ad6587f53937cf8c0f5a88fdf4f2d003a03c0e43c114d3c",
             "size": "20022",
             "boards": [
               {"name": "NextFlex Arduino (8MHz)"}
