@@ -1,0 +1,33 @@
+{
+  "packages": [
+    {
+      "name": "A15",
+      "maintainer": "Marques Reimann",
+      "websiteURL": "nextflex.us",
+      "email": "mreimann@nextflex.us",
+      "help": {
+        "online": "nextflex.us"
+      },
+      "platforms": [
+        {
+          "name": "NextFlex Arduino Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "nextflex.us"
+          },
+          "url": "https://github.com/rattrap777/A15/blob/master/A15.zip",
+          "archiveFileName": "A15.zip",
+          "checksum": "md5:7e94ddf4bf024e5e5978dc693e592527",
+          "size": "20022",
+          "boards": [
+            {"name": "NextFlex Arduino (8MHz)"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
