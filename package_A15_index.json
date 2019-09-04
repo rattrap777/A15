@@ -22,7 +22,7 @@
           "checksum": "SHA-256:453e61ba591697d17833e1d5abfa77395efd3eebec8eed95e03236966b0c3c00",
           "size": "9306",
           "boards": [
-            {"name": "Arduino Pro Mini (1MHz internal oscillator)"}
+            {"name": "NextFlex Arduino (8MHz)"}
           ],
           "toolsDependencies": []
         }
