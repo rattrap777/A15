@@ -10,12 +10,12 @@
       },
       "platforms": [
         {
-          "name": "IoT-Experiments Boards",
+          "name": "A15 Board",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
-            "online": "https://www.iot-experiments.com"
+            "online": "nextflex.us"
           },
           "url": "https://github.com/IoT-Experiments/arduino-boards/archive/v1.0.0.tar.gz",
           "archiveFileName": "arduino-boards-1.0.0.tar.gz",
