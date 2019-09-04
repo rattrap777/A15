@@ -1,46 +1,28 @@
 {
   "packages": [
     {
-      "name": "iot-experiments",
-      "maintainer": "Jean-Matthieu DECHRISTÉ",
-      "websiteURL": "https://www.iot-experiments.com",
-      "email": "contact@iot-experiments.com",
+      "name": "A15",
+      "maintainer": "Marques Reimann",
+      "websiteURL": "nextflex.us",
+      "email": "mreimann@nextflex.us",
       "help": {
-        "online": "https://www.iot-experiments.com"
+        "online": "nextflex.us"
       },
       "platforms": [
         {
-          "name": "IoT-Experiments Boards",
+          "name": "NextFlex Arduino Boards",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
-            "online": "https://www.iot-experiments.com"
+            "online": "nextflex.us"
           },
-          "url": "https://github.com/IoT-Experiments/arduino-boards/archive/v1.0.0.tar.gz",
-          "archiveFileName": "arduino-boards-1.0.0.tar.gz",
-          "checksum": "SHA-256:453e61ba591697d17833e1d5abfa77395efd3eebec8eed95e03236966b0c3c00",
-          "size": "9306",
+          "url": "https://github.com/rattrap777/A15/blob/master/A15.zip",
+          "archiveFileName": "A15.zip",
+          "checksum": "md5:7e94ddf4bf024e5e5978dc693e592527",
+          "size": "20022",
           "boards": [
-            {"name": "Arduino Pro Mini (1MHz internal oscillator)"}
-          ],
-          "toolsDependencies": []
-        },
-        {
-          "name": "IoT-Experiments Boards",
-          "architecture": "avr",
-          "version": "1.1.0",
-          "category": "Contributed",
-          "help": {
-            "online": "https://www.iot-experiments.com"
-          },
-          "url": "https://github.com/IoT-Experiments/arduino-boards/archive/v1.1.0.tar.gz",
-          "archiveFileName": "arduino-boards-1.1.0.tar.gz",
-          "checksum": "SHA-256:79c90e35679d7ad12cee4ca404fb8648cfd95b60c6a394ecc57519c695284229",
-          "size": "9959",
-          "boards": [
-            {"name": "Arduino Pro Mini (1MHz / 7200bds)"},
-            {"name": "Arduino Pro Mini (1MHz / 3600bds)"}
+            {"name": "NextFlex Arduino (8MHz)"}
           ],
           "toolsDependencies": []
         }
