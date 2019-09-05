@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "A15",
+      "name": "NextFlex A15",
       "maintainer": "Marques Reimann",
       "websiteURL": "nextflex.us",
       "email": "mreimann@nextflex.us",
@@ -22,7 +22,7 @@
           "checksum": "md5:7e94ddf4bf024e5e5978dc693e592527",
           "size": "20022",
           "boards": [
-            {"name": "NextFlex Arduino (8MHz)"}
+            {"name": "NextFlex A15 (8MHz)"}
           ],
           "toolsDependencies": []
         }
